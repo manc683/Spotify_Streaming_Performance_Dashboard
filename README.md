@@ -1,3 +1,5 @@
+<img width="1885" height="945" alt="spotifydashboard" src="https://github.com/user-attachments/assets/7ed4974d-cb6c-4bed-9280-ff18bcc5face" />
+
 ## 🎵 Spotify Artist Streaming Performance Dashboard
 
 📌 Project Overview
